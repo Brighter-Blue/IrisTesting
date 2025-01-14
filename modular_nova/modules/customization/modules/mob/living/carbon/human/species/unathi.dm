@@ -15,12 +15,12 @@
 	examine_limb_id = SPECIES_LIZARD
 
 	bodypart_overrides = list(
-		BODY_ZONE_HEAD = /obj/item/bodypart/head/lizard,
-		BODY_ZONE_CHEST = /obj/item/bodypart/chest/lizard,
-		BODY_ZONE_L_ARM = /obj/item/bodypart/arm/left/lizard,
-		BODY_ZONE_R_ARM = /obj/item/bodypart/arm/right/lizard,
-		BODY_ZONE_L_LEG = /obj/item/bodypart/leg/left/lizard,
-		BODY_ZONE_R_LEG = /obj/item/bodypart/leg/right/lizard,
+		BODY_ZONE_HEAD = /obj/item/bodypart/head/unathi,
+		BODY_ZONE_CHEST = /obj/item/bodypart/chest/unathi,
+		BODY_ZONE_L_ARM = /obj/item/bodypart/arm/left/unathi,
+		BODY_ZONE_R_ARM = /obj/item/bodypart/arm/right/unathi,
+		BODY_ZONE_L_LEG = /obj/item/bodypart/leg/left/unathi,
+		BODY_ZONE_R_LEG = /obj/item/bodypart/leg/right/unathi,
 	)
 
 /datum/species/unathi/get_default_mutant_bodyparts()
