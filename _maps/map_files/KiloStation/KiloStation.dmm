@@ -8674,7 +8674,7 @@
 /obj/effect/turf_decal/trimline/gray/filled/line{
 	dir = 9
 	},
-/obj/item/clothing/suit/toggle/labcoat/nova/regular,
+/obj/item/clothing/suit/toggle/labcoat/nova/fancy/regular,
 /obj/item/clothing/gloves/latex,
 /obj/item/clothing/mask/gas/atmos/frontier_colonist,
 /turf/open/floor/iron/dark/textured_large,
@@ -25882,7 +25882,7 @@
 	dir = 8
 	},
 /obj/item/clothing/glasses/meson/engine,
-/obj/item/reagent_containers/pill/patch/aiuri,
+/obj/item/reagent_containers/applicator/patch/aiuri,
 /turf/open/floor/iron/dark,
 /area/station/engineering/lobby)
 "hPl" = (
@@ -29723,7 +29723,7 @@
 /obj/effect/turf_decal/trimline/gray/filled/line{
 	dir = 5
 	},
-/obj/item/clothing/suit/toggle/labcoat/nova/regular,
+/obj/item/clothing/suit/toggle/labcoat/nova/fancy/regular,
 /obj/item/clothing/gloves/latex,
 /obj/item/clothing/mask/gas/atmos/frontier_colonist,
 /turf/open/floor/iron/dark/textured_large,
